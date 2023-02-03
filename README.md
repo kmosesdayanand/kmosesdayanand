@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Splunk
-- 🌱 I’m currently learning Splunk
-- 📫 How to reach me: @9493479300
+- 🔭 working on Splunk
+- 🌱 learning Splunk
+- 📫 reach me: [Moses Dayanand](https://www.linkedin.com/in/mosesdayanand/)
 
 <!--
 **kmosesdayanand/kmosesdayanand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
