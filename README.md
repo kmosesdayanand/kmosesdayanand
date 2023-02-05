@@ -107,6 +107,6 @@ Hi there, I'm Moses Dayanand</a> 👋
 
 [![kmosesdayanand's github stats](https://github-readme-stats.vercel.app/api?username=kmosesdayanand)](https://github.com/kmosesdayanand/kmosesdayanand)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmosesdayanand&layout=compact)](https://github.com/kmosesdayanand/kmosesdayanand)
+[![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=kmosesdayanand&layout=compact)](https://github.com/kmosesdayanand/kmosesdayanand)
 
               
