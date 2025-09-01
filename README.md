@@ -102,11 +102,12 @@ Hi there, I'm Moses Dayanand</a> 👋
 
 
 
-## 📈 GitHub Stats  
+## 📈 GitHub Stats
 
-[![Moses Dayanand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kmosesdayanand&show_icons=true&theme=tokyonight)](https://github.com/kmosesdayanand)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kmosesdayanand)](https://github.com/kmosesdayanand)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kmosesdayanand&layout=compact&theme=tokyonight)](https://github.com/kmosesdayanand)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kmosesdayanand&layout=compact)](https://github.com/kmosesdayanand)
+ 
 
 
               
